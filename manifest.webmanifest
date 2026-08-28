@@ -1,0 +1,15 @@
+{
+  "name": "Smart Campus Digital Twin",
+  "short_name": "smartcampus",
+  "description": "A calm command center for connected campus operations.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#f4f1ea",
+  "theme_color": "#08111f",
+  "categories": ["education", "productivity", "utilities"],
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
